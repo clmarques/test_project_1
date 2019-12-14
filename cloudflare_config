@@ -1,0 +1,4 @@
+Auth-Key=[Your_CloudFlare_API_Auth_Key]
+Auth-Email=[Your_CloudFlare_Account_Email]
+Zone-Name=[DNS_Zone_ID_of_Your_Domain]
+Dns-Record=[List_Of_Domain_Address_You_Want_To_Update]
